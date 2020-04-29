@@ -13,10 +13,16 @@
             ]
 		},
 		{
-			"title": "SpbCTF",
-			"subtitle": "Top 10 in Saint-Petersburg",
+			"title": "hack you '17",
+			"subtitle": "7th in Saint-Petersburg",
 			"dates": "2017",
-			"text": "A hacking competition. I've been participating on my own, not as part of a team"
+			"text": "A hacking competition. I've been participating on my own, not as part of a team",
+			"buttons": [
+				{
+					"text": "Standings",
+                    "link": "https://17.hackyou.ctf.su/scoreboard"
+				}
+            ]
 		}
 	]
 }
