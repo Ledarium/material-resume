@@ -1,5 +1,5 @@
 {
-    "about": "Devoted developer and tech enthusiast",
+    "about": "Devoted developer and tech enthusiast. Prefer clean code. Icons above are clickable :)",
     "color": "#6da15f",
 	"ripple_rgb": "180, 245, 62",
     "favicon": "favicon.png",
@@ -7,12 +7,16 @@
     "title": "Maylarov Dmitry Alexandrovich",
 	"icons": [
 		{
+			"id": "imessage",
+			"url": "https://t.me/inmemesveritas"
+		},
+		{
 			"id": "email",
 			"url": "mailto:maylarov@yandex.ru"
 		},
 		{
-			"id": "imessage",
-			"url": "http://t.me/inmemesveritas"
+			"id": "lastfm",
+			"url": "https://last.fm/user/Ledarium00"
 		}
 	]
 }
