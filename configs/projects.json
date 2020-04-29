@@ -1,6 +1,17 @@
 {
 	"projects": [
 		{
+			"title": "This server",
+			"description": "It makes some stuff running, not just this page",
+			"text": "For example, syncthing and OpenVPN",
+			"buttons": [
+				{
+					"text": "Literally this page",
+					"link": "https://inmemesveritas.ru"
+				}
+            ]
+		},
+		{
 			"title": "Power supply",
 			"description": "Current and voltage-controlled, soldering station included",
 			"text": "Built it out of Aliexpress modules into a whole construction",
