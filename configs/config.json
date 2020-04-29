@@ -13,10 +13,6 @@
 		{
 			"id": "email",
 			"url": "mailto:maylarov@yandex.ru"
-		},
-		{
-			"id": "lastfm",
-			"url": "https://last.fm/user/Ledarium00"
 		}
 	]
 }
