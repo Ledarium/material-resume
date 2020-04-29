@@ -1,14 +1,18 @@
 {
-    "about": "This static site generator helps you make a material-design themed resume website.",
-    "color": "#673AB7",
-	"ripple_rgb": "033, 58, 183",
+    "about": "Devoted developer and tech enthusiast",
+    "color": "#6da15f",
+	"ripple_rgb": "180, 245, 62",
     "favicon": "favicon.png",
-    "subtitle": "Static Site Generator",
-    "title": "Material Resume",
+    "subtitle": "Майларов Дмитрий Александрович",
+    "title": "Maylarov Dmitry Alexandrovich",
 	"icons": [
 		{
-			"id": "circlegithubalt",
-			"url": "http://github.com/tylerkrupicka/material-resume"
+			"id": "email",
+			"url": "mailto:maylarov@yandex.ru"
+		},
+		{
+			"id": "imessage",
+			"url": "http://t.me/inmemesveritas"
 		}
 	]
 }

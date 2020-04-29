@@ -1,9 +1,14 @@
 {
 	"schools": [
 		{
-			"title": "A School",
-			"subtitle": "English Major",
-			"text": "In my spare time I used this static site generator."
+			"title": "Economics and Mathematics liceum #29, Izhevsk, Russia",
+			"subtitle": "2014-2016",
+            "text": "Studying algorithms and data structures"
+		},
+		{
+			"title": "The Bonch-Bruevich University of Telecommunications, Saint-Petersburg, Russia",
+			"subtitle": "2016-2020",
+            "text": "Studying electronics and engineering"
 		}
 	]
 }

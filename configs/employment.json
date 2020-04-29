@@ -1,16 +1,16 @@
 {
 	"jobs": [
 		{
-			"title": "Best Buy",
-			"position": "Computer Technician",
-			"dates": "2016",
-			"text": "I don't actually work there, I just give people awful computer advice."
+			"title": "Emzior",
+			"position": "Python developer",
+			"dates": "September 2019 - present",
+			"text": "Developing software for network devices"
 		},
 		{
-			"title": "Somewhere",
-			"position": "Sandwich Artisan",
-			"dates": "2015",
-			"text": "I ate there so much that they hired me."
+			"title": "Special Technologics Center",
+			"position": "Embedded developer intern",
+			"dates": "June 2019",
+			"text": "Acquiring embedded development practical skills"
 		}
 	]
 }

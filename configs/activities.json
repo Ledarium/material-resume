@@ -1,8 +1,16 @@
 {
 	"activities": [
 		{
-			"title": "Using",
-			"description": "This static site generator. That is all."
+			"title": "Studying",
+			"description": "Trying to learn new things every day"
+		},
+		{
+			"title": "Playing",
+			"description": "I like board games and role-playing videogames"
+		},
+		{
+			"title": "Listening",
+			"description": "Various genres of music, but mostly synthpop"
 		}
 	]
 }

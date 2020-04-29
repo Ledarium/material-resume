@@ -1,20 +1,38 @@
 {
 	"projects": [
 		{
-			"title": "Valleygirl",
-			"description": "A Chrome extension that discreetly clicks every Facebook like button.",
-			"text": "The best extension ever made.",
-			"uses": "Javascript, JQuery",
+			"title": "Power supply",
+			"description": "Current and voltage-controlled, soldering station included",
+			"text": "Built it out of Aliexpress modules into a whole construction",
+			"uses": "Old ATX case, 3D-printed front panel, and a bunch of PCBs"
+		},
+		{
+			"title": "WIP: Custom mechanical keyboard",
+			"description": "When default keyboards have too many buttons...",
+			"text": "To reduce my wrist strain",
+			"uses": "Outemu Blue switches, 40% Planck layout, STM32 board"
+		},
+		{
+			"title": "WIP: Board games time tracker",
+			"description": "Yeah, I adore board games, but dislike when someone forgets about time",
+			"text": "Supports 2-6 players and counts scores",
+			"uses": "STM32 board, I2C display 20x4, big red button"
+		},
+		{
+			"title": "Lectures",
+			"description": "I was kinda professor. Twice",
+			"text": "I have been organizing and reading lectures on 15x4 Saint Petersburg",
+			"uses": "Some kind of knowledge. Also PowerPoint",
 			"buttons": [
 				{
-					"text": "GITHUB",
-					"link": "https://github.com/tylerkrupicka/valleygirl"
+					"text": "Meltdown/Spectre",
+					"link": "https://www.youtube.com/watch?v=1RLTPRK8Igc"
 				},
 				{
-					"text": "CHROME",
-					"link": "https://chrome.google.com/webstore/detail/valley-girl/aaobhafeeoijpgnohafhbpjldeoldpin"
+					"text": "Game Graphics",
+					"link": "https://drive.google.com/open?id=1_M7yBLYgnIcrtWgpt9l5qjjPka0z5p3K"
 				}
-			]
+            ]
 		}
 	]
 }

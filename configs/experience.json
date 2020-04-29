@@ -1,8 +1,9 @@
 {
 	"experiences": {
-			"proficient": "Eating, Breathing.",
-			"some": "Reading.",
-			"frameworks": "Does HTML count?",
-			"tools": "A series of tubes."
+			"proficient": "Python 3, C",
+			"some": "Python 2, Java, C++",
+			"embedded": "STM32 (F1/F4/L0), AVR, I2C, SPI, UART, CAN, FreeRTOS",
+			"cads": "Solidworks, AutoCAD, Altium Designer, OrCAD",
+			"tools": "Git, Linux, Ansible, soldering iron, LaTeX"
 		}
 }
