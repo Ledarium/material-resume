@@ -110,6 +110,9 @@
 				<div class="card-list-subtitle">{{ award.subtitle }} <br /> {{ award.dates }}</div>
 				<div class="card-hidden">
 					<div class="card-list-text">{{ award.text }}</div>
+					{% for button in award.buttons %}
+					<a  style="color: {{ color }}"class="card-button" href="{{ button.link }}" target="_blank">{{ button.text }}</a>
+					{% endfor %}
 				</div>
 			</div>
 			{% endfor %}

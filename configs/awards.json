@@ -1,6 +1,18 @@
 {
 	"awards": [
 		{
+			"title": "EFSET",
+			"subtitle": "C2 Proficient",
+			"dates": "2019",
+			"text": "I am Mr.Worldwide now, i guess?",
+			"buttons": [
+				{
+					"text": "Certificate",
+                    "link": "https://www.efset.org/cert/NSd5x2"
+				}
+            ]
+		},
+		{
 			"title": "SpbCTF",
 			"subtitle": "Top 10 in Saint-Petersburg",
 			"dates": "2017",
